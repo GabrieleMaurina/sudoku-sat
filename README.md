@@ -55,4 +55,4 @@ You will get:
 
 ## Board
 
-The board is just a sequence of characters, where 0 denotes an empty cell and the numbers 1-9 denote the actual numbers from 1 to 9. **Any other character is ignored.** The numbers fill the board left to right, top to bottom. 20 premade boards are available in the "example" folder.
+The board is just a sequence of characters, where 0 denotes an empty cell and the numbers 1-9 denote the actual numbers from 1 to 9. **Any other character is ignored.** The numbers fill the board left to right, top to bottom. 20 premade boards are available in the "examples" folder.
