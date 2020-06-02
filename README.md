@@ -3,9 +3,7 @@ A c++ sudoku solver based on Cryptominisat.
 
 ## Build
 
-This solver uses [Cryptominisat5](https://github.com/msoos/cryptominisat "Cryptominisat repository Github."). In order to build Sudoku Sat you need to install Cryptominisat5 first.
-
-Once the dependecy is dealt with, clone this repo and build the binaries with:
+This solver uses [Cryptominisat5](https://github.com/msoos/cryptominisat "Cryptominisat repository Github."). In order to build Sudoku Sat you need to install Cryptominisat5 first. Once this dependecy is dealt with, clone this repo and build the binaries with:
 
 ```bash
 git clone https://github.com/GabrieleMaurina/sudoku-sat.git
